@@ -1,6 +1,6 @@
 package com.iu.s6;
 
-public class Electric {
+public class Electric extends Object{
 	
 	private String brand;
 	private String color;
